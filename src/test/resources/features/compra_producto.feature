@@ -32,7 +32,7 @@
         Entonces que el usuario esta en el carrito de compras y tiene al menos un producto agregado
         Y el usuario procede al checkout al hacer clic en Finalizar compra
         Y completa la informacion requerida para el envio y pago
-        Entonces el usuario debera ver el mensaje de confirmacion "PAGAR POR EL PEDIDO"
+        Entonces el usuario debera ver el mensaje de confirmacion "¿Cómo quieres pagar?"
 
 
       @proceso_checkout_fallido

@@ -6,7 +6,7 @@ import org.openqa.selenium.support.FindBy;
 
 public class ConfirmationPage extends PageObject {
 
-    @FindBy(xpath ="//h1[contains(text(),'Pagar por el pedido')]")
+    @FindBy(xpath ="//h3[contains(text(),'¿Cómo quieres pagar?')]")
     WebElement LBL_CONFIRMATION_MESSAGE;
 
 
